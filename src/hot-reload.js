@@ -25,4 +25,3 @@ console.log("Browser reload triggered");
 });
 };
 module.exports = enableHotReload;
-
